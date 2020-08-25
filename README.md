@@ -2,6 +2,8 @@
 
 ### Command
 
+Ensure that you have docker CLI installed
+
 Run the following command in root of project directory
 
 - `docker build -t eugene-server-content .`
