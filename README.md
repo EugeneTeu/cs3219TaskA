@@ -7,7 +7,7 @@ Ensure that you have docker CLI installed
 Run the following command in root of project directory
 
 - `docker build -t eugene-server-content .`
-- `docker run --name eugene-server -d -p 80:80 eugene-server-content`
+- `docker run --name eugene-server -d -p 80:80 eugeneteu/task-a`
 
 This command runs the docker image we build from the directory. 
 
